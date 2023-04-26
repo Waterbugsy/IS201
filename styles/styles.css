@@ -1,0 +1,39 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color: #003da5;
+}
+
+.changedText1{
+    font-style: bold;
+}
+
+.changedText2{
+    font-style: italic;
+}
+
+body{
+    background-color:lightgrey;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid black;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+ul{
+    list-style-position: inside;
+    
+}
